@@ -1,0 +1,4 @@
+-proc:none
+-d
+/tmp/jall
+@/tmp/all.txt
